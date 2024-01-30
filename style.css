@@ -1,0 +1,53 @@
+body{
+    width: 100wv;
+    height: 100hv;
+    background: #f5d04c;
+    padding: 3rem;
+    margin: 5rem;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    box-sizing: border-box;
+}
+main{
+padding: 1rem;
+background-color: rgb(255, 255, 255);
+height: 30rem;
+width: 22rem;
+margin: auto;
+border-radius: 16px;
+border-right: solid 7px;
+border-bottom: solid 7px;
+border-left: solid 1px;
+border-top: 1px solid;
+
+
+}
+.card img{
+    width:19rem ;
+    padding-bottom: 1rem;
+}
+.div Learning {
+    
+    background-color: #f5d04c;
+    height: 25px;
+    width: 5rem;
+    border: none;
+    border-radius: 3px;
+    font-weight: 900;
+    
+   
+}
+
+
+
+
+
+.dp{
+    display: flex;
+    align-items: center;
+    font-weight:900;
+    
+
+}
